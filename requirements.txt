@@ -1,0 +1,6 @@
+azure-mgmt-compute
+azure-mgmt-storage
+azure-mgmt-resource
+azure-keyvault-secrets
+azure-storage-blob
+python-dotenv
